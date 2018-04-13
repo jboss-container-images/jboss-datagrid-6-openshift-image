@@ -234,4 +234,4 @@ run:
 osbs:
       repository:
             name: jboss-datagrid-6-docker
-            branch: ce-1.6-openshift-datagrid-6.5-jdk-8-rhel-7
+            branch: jb-datagrid-6.5-openshift-rhel-7
